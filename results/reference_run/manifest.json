@@ -1,0 +1,22 @@
+{
+  "review_date": "2026-10-25",
+  "source": "User-supplied completed pipeline exports",
+  "hospital_count": 2412,
+  "evaluation_episodes_per_policy": 500,
+  "training_episodes": 3000,
+  "state_action_shape": [
+    81,
+    6
+  ],
+  "scope": "Simulation evidence; not observed intervention effects",
+  "source_archive_sha256": "dae3598e6e2669988400d38a6a70a1cd57cc4906fe2f0034c6e6177a2f6419bc",
+  "files": {
+    "selected_hyperparameters.csv": "8dcd0dc99a925737d32e2dcb99b98a909714006243af8b3004dc9e63971bfc32",
+    "final_tuned_vs_baseline.csv": "6bf4797fff37bc4af11f71d7c9ea7b8f437e497d574a6b16ef6b030bfa716ded",
+    "confirmation_summary.csv": "45c6c2ea64317c19abd0de875b2859361e42018c3650288cfdeb62dcb6530f4d",
+    "confirmation_runs_all_seeds.csv": "1bb296e2c7395030e97ac46d8f1456a7780842ba12c3ec51d0205664e3cf4832",
+    "coarse_hyperparameter_search_108.csv": "de787c2bc3534fe50018d49c9974c2e35680839e26171c308a4abefa32154fa9",
+    "final_tuned_evaluation.csv": "0cbe2be2a1fe3dae98bb763d8baa6c7730028020c076f5e2f9604ab78d9b86c2",
+    "final_equal_allocation_baseline.csv": "9ef452777fa4749cb0c2c570e77c9d08c51d4da96ce00c3e7c1c6b8bb3883912"
+  }
+}
